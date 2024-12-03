@@ -1,5 +1,7 @@
 import React from "react";
-import "./images/logo.png"
+// import "./images/logo.png"
+// import "./public/images/logo.png"
+import "../public/images/logo.png"
 import UtilityNav from "./components/UtilityNav";
 import Navbar from "./components/Navbar";
 import HomePage from "./components/HomePage";

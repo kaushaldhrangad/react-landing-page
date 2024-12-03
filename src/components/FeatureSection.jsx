@@ -5,37 +5,37 @@ const projectsData = [
   {
     id: 1,
     title: "Dubai Building Park",
-    image: "./src/images/feature-1.png",
+    image: "/images/feature-1.png",
     category: "building",
   },
   {
     id: 2,
     title: "Hospital Healthcare",
-    image: "./src/images/healthcare.jpg",
+    image: "/images/healthcare.jpg",
     category: "healthcare",
   },
   {
     id: 3,
     title: "Pent House",
-    image: "./src/images/feature-3.png",
+    image: "/images/feature-3.png",
     category: "building",
   },
   {
     id: 4,
     title: "Building Design",
-    image: "./src/images/building-2.jpg",
+    image: "/images/building-2.jpg",
     category: "building",
   },
   {
     id: 5,
     title: "Office Design",
-    image: "./src/images/office.jpg",
+    image: "/images/office.jpg",
     category: "office",
   },
   {
     id: 6,
     title: "Interior Design of the House",
-    image: "./src/images/interior-design-2.jpg",
+    image: "/images/interior-design-2.jpg",
     category: "interior-design",
   },
 ];

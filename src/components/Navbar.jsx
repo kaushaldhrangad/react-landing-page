@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Logo from "./Logo";
+// import Logo from "../../public/images/Logo";
 import { HiMenu, HiX, HiSearch } from "react-icons/hi";
 import { motion, AnimatePresence } from "framer-motion";
 

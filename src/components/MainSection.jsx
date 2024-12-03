@@ -14,21 +14,21 @@ const MainSection = () => {
         className="absolute inset-0 w-full h-full bg-black">
         <div>
           <img
-            src="./src/images/main-image-1.png"
+            src="/images/main-image-1.png"
             alt="background 1"
             className="w-full h-[550px] object-cover  opacity-50"
           />
         </div>
         <div>
           <img
-            src="./src/images/main-image-2.jpg"
+            src="/images/main-image-2.jpg"
             alt="background 2"
             className="w-full h-[550px] object-cover  opacity-50"
           />
         </div>
         <div>
           <img
-            src="./src/images/main-image-3.jpg"
+            src="/images/main-image-3.jpg"
             alt="background 2"
             className="w-full h-[550px] object-cover  opacity-50"
           />

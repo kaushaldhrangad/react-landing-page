@@ -5,7 +5,7 @@ const Logo = () => {
     <div className="flex justify-center md:justify-start cursor-pointer items-center place-items-center">
       <a href="/">
       <img
-        src="./src/images/logo.png"
+        src="../public/images/logo.png"
         alt="Logo"
         width={144}
         height={50}

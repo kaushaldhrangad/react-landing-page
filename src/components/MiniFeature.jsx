@@ -1,5 +1,6 @@
 import React from "react";
-import "../images/mini-feature-image.png";
+// import "../images/mini-feature-image.png";
+import "/images/mini-feature-image.png"
 import { motion } from "framer-motion";
 
 const MiniFeature = () => {
@@ -37,9 +38,9 @@ const MiniFeature = () => {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
-            alt="ecommerce"
+            alt="image"
             className="lg:w-1/2 w-full lg:h-auto object-center rounded"
-            src="./src/images/mini-feature-image.png"
+            src="/images/mini-feature-image.png"
             width={945}
             height={751}
           />
