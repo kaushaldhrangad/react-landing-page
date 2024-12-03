@@ -54,7 +54,7 @@ const MiniFeature = () => {
               <motion.div variants={fadeInUp}>
                 <h2 className="text-[#252C3A] text-2xl title-font flex items-center gap-3 font-[600]">
                   <img
-                    src="./src/assets/skyline.png"
+                    src="/assets/skyline.png"
                     className="w-[64px] h-[64px]"
                     alt=""
                   />
@@ -71,7 +71,7 @@ const MiniFeature = () => {
               <motion.div variants={fadeInUp} className="mt-5">
                 <h2 className="text-[#252C3A] text-2xl title-font flex object-fill items-center gap-3 font-[600]">
                   <img
-                    src="./src/assets/building.png"
+                    src="/assets/building.png"
                     className="w-[64px] h-[64px]"
                     alt=""
                   />
@@ -88,7 +88,7 @@ const MiniFeature = () => {
               <motion.div variants={fadeInUp} className="mt-5">
                 <h2 className="text-[#252C3A] text-2xl title-font flex items-center gap-3 font-[600]">
                   <img
-                    src="./src/assets/wallpaper.png"
+                    src="/assets/wallpaper.png"
                     className="w-[64px] h-[64px]"
                     alt=""
                   />

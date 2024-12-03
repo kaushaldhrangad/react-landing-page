@@ -129,7 +129,7 @@ const FeatureSection = () => {
                           href="#"
                           className="transform hover:scale-110 transition-transform duration-200">
                           <img
-                            src="./src/assets/link.png"
+                            src="/assets/link.png"
                             alt="link"
                             className="w-5 h-5 sm:w-7 sm:h-7"
                           />
@@ -138,7 +138,7 @@ const FeatureSection = () => {
                           href="#"
                           className="transform hover:scale-110 transition-transform duration-200">
                           <img
-                            src="./src/assets/plus.png"
+                            src="/assets/plus.png"
                             alt="plus"
                             className="w-5 h-5 sm:w-7 sm:h-7"
                           />
